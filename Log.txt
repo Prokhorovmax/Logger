@@ -1,0 +1,8 @@
+[NOTICE]  HELLO!
+[DEBUG]   SUM WRITTEN TO C
+[STATUS]  a = 14
+[STATUS]  b = -10
+[STATUS]  sum = 4
+          just a string without tag
+[NOTICE]  EVERYTHING IS OK
+[WARNING] TIME TO END THIS

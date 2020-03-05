@@ -1,0 +1,2 @@
+
+public enum Level {STATUS, NOTICE, WARNING, ERROR, DEBUG, TRACE}
